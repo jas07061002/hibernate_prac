@@ -7,7 +7,7 @@ import org.hibernate.cfg.Configuration;
 
 import com.learnhibernate.demo.entity.Instructor;
 import com.learnhibernate.demo.entity.InstructorDetail;
-import com.learnhibernate.demo.entity.Student;
+
 
 public class DeleteDemo {
 
