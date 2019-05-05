@@ -20,7 +20,7 @@ public class CreateDemo {
 								.buildSessionFactory();
 		
 		// create a session
-	//juhuhuhijhjhjhjhjhjhj
+	
 		Session session = factory.getCurrentSession();
 		
 		try {
