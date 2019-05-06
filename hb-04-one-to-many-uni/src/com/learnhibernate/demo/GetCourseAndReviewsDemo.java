@@ -38,8 +38,10 @@ public class GetCourseAndReviewsDemo {
 			
 			
 			// print the course
+			System.out.println(tempCourse);
 			
 			// print the course reviews
+			System.out.println(tempCourse.getReviews());
 			
 		
 			// commit the transaction
